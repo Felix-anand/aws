@@ -1,0 +1,9 @@
+iammad
+
+
+
+
+
+
+git status
+cd
